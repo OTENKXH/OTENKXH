@@ -21,4 +21,4 @@ my main field of expertise is in Front-End development.
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ## Contact Info:
-<a><a>
+<a href="https://t.me/bla_kspa_e"><img width="50px" hight="50px" src="https://github.com/OTENKXH/OTENKXH/blob/main/telegram.png?raw=true" alt="Telegram"><a>
