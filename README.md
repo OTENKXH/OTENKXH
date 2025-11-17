@@ -3,7 +3,7 @@
 <h2>About Me:</h2>
 <h3>I'm Hossein Keshavarz</h3>
 
-- 💻 &nbsp; Azad University CE/CS graduate student.
+- 💻 &nbsp; Azad University CE/CS graduate.
 - 🕸️ &nbsp; Front-End Developer.
 - 🏠 &nbsp; Currently working as a Freelancer.
 - 📖 &nbsp; Constantly learning...
@@ -17,12 +17,13 @@
 ## Technologies I use:
 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)<br/>
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)<br/>
 
 ### Learning Technologies:
 
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)<br/>
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)<br/>
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)<br/>
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)<br/>
 
 ## Tools I use:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)<br/>
@@ -32,4 +33,4 @@
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 
 ## Contact ME:
-<a href="https://t.me/bla_kspa_e"><img width="50px" hight="50px" src="https://github.com/OTENKXH/OTENKXH/blob/main/telegram.png?raw=true" alt="Telegram"><a>
+<a href="https://t.me/otenium"><img width="50px" hight="50px" src="https://github.com/OTENKXH/OTENKXH/blob/main/telegram.png?raw=true" alt="Telegram"><a>
