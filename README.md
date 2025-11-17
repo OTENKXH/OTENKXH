@@ -34,4 +34,7 @@
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 
 ## Contact ME:
-<a href="https://t.me/otenium"><img width="50px" hight="50px" src="https://github.com/OTENKXH/OTENKXH/blob/main/telegram.png?raw=true" alt="Telegram"><a>
+
+<a href="https://t.me/otenium">![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white)<a>
+<a href="https://k.hossein777@gmail.com">![Telegram](https://img.shields.io/badge/gmail-dddddd?style=for-the-badge&logo=gmail&logoColor=black)<a>
+
